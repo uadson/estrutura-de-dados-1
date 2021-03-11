@@ -6,7 +6,7 @@ def meu_max(iteravel):
     """
     Análise do algorítmo
     Tempo de execução, algorítmo O(n)
-    Em memório O(1)
+    Em memória O(1)
     :param iteravel:
     :return:
 
